@@ -1,7 +1,5 @@
 # home-assistant-wakewords
 
-# Home Assistant Wakewords
-
 Deze repository bevat mijn eigen microWakeWord-modellen voor Home Assistant Voice PE.
 
 ## Wakewords
